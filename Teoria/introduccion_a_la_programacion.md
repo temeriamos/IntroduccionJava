@@ -1,5 +1,3 @@
-# Resumen del Documento `PROG01B.pptx`
-
 ## Introducción a la Programación
 
 ### Contenido:
